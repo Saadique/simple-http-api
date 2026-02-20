@@ -49,3 +49,7 @@ http://localhost:8080/hello-world?name=alice
 ```bash
 ./mvnw test
 ```
+
+## Submission
+
+This branch is submitted as part of the technical assessment.
