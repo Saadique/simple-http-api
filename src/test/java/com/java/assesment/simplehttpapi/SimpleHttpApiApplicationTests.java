@@ -1,0 +1,13 @@
+package com.java.assesment.simplehttpapi;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class SimpleHttpApiApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
